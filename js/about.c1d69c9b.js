@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,e,t){"use strict";t.r(e);var c=t("7a23"),a=t("cf05"),o=t.n(a),u={class:"about"},b=Object(c["e"])("img",{alt:"Vue logo",src:o.a},null,-1),r=Object(c["e"])("h1",null,"Тестовое задание",-1),s=[b,r];function l(n,e){return Object(c["p"])(),Object(c["d"])("div",u,s)}var d=t("6b0d"),i=t.n(d);const p={},w=i()(p,[["render",l]]);e["default"]=w}}]);
+//# sourceMappingURL=about.c1d69c9b.js.map
